@@ -17,8 +17,8 @@ This is a simple 2D Snake game built using Python's Tkinter library. The game is
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/2D-snake-game.git
-    cd 2D-snake-game
+    git clone https://github.com/martinrosik/PythonSnakeGame.git
+    cd PythonSnakeGame
     ```
 
 2. **Install Python (if not already installed)**:
